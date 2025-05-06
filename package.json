@@ -1,7 +1,7 @@
 {
 	"name": "express-ipld",
 	"description": "Express middleware for dag-json and dag-cbor IPLD codecs",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"type": "module",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
