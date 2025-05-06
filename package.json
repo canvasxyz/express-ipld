@@ -9,6 +9,12 @@
 		"lib/**/*.js",
 		"lib/**/*.d.ts"
 	],
+	"keywords": [
+		"express",
+		"ipld",
+		"dag-json",
+		"dag-cbor"
+	],
 	"scripts": {
 		"build": "tsc",
 		"dev": "tsc --watch"
